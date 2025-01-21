@@ -1,6 +1,7 @@
 # Sistema de gestion de proyectos
 ## Proyecto realizado en la catedra Sintaxis y Semantica del Lenguaje
 
+
 - Programa de Consola/Terminal
 - Realizado con Python
 - Se implemento el concepto de TAD
